@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wiki Club Website
+Welcome to the official repository for the college Wiki Club website! This project serves as a central hub for our student community, promoting open-source development and providing a platform for members to learn, collaborate, and contribute.
 
-## Getting Started
+## About the Club
+Our club is dedicated to fostering an environment where students can learn about, practice, and contribute to open-source projects. We believe in the power of collaboration and strive to make open source accessible to everyone, regardless of their skill level.
 
-First, run the development server:
+## Features
+Homepage: An introduction to our club and its mission.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Events Calendar: Stay up to date with our upcoming meetings, workshops, and hackathons.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Resources: A curated list of tutorials, articles, and tools to help you get started with open source.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Blog: Club news, member spotlights, and articles on various tech topics.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contribution
+We welcome contributions from all club members and the wider open-source community! Whether you're a seasoned developer or just starting out, there are many ways to help.
 
-## Learn More
+To contribute, please follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+Fork this repository.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Clone your forked repository to your local machine.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Create a new branch for your feature or bug fix.
 
-## Deploy on Vercel
+Make your changes and commit them.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Push your changes to your forked repository.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Create a pull request to the main branch of this repository.
+
+Please read our CONTRIBUTING.md for more details on our contribution guidelines.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
